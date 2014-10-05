@@ -23,5 +23,10 @@ git checkout develop
 git merge develop
 git push origin master
 git push origin develop
+
+git branch -D deleteme
+git remote prune deletme
+git push origin :deletme
+
 123:wq
 dddffdddffdddffdddffdddffdddffdddffdddffdddffdddffdddffdddff
