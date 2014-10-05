@@ -23,7 +23,7 @@ git checkout develop
 git merge develop
 git push origin master
 git push origin develop
-(optianal)
+(optional)
 git branch -D deleteme
 git remote prune deletme
 git push origin :deletme
