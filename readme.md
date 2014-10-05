@@ -1,7 +1,7 @@
 t trainning 5/10/57
 ooooooooooooo
 =================.
-
+(local)
 git init
 git config user.name="rattakorn"
 git config user.email="rtk.cooling@gmail.com"
@@ -23,7 +23,7 @@ git checkout develop
 git merge develop
 git push origin master
 git push origin develop
-
+(optianal)
 git branch -D deleteme
 git remote prune deletme
 git push origin :deletme
