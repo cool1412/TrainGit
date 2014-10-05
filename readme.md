@@ -1,5 +1,6 @@
 t trainning 5/10/57
-ooooooooooooo.
+ooooooooooooo
+=================.
 
 git init
 git config user.name="rattakorn"
